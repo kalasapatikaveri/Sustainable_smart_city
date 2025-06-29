@@ -7,7 +7,7 @@ import datetime
 app = FastAPI()
 
 # ✅ API Keys
-HF_API_KEY = "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"
+HF_API_KEY = "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"
 WEATHER_API_KEY = "4a43426d0ad0a654181c29ece16ecbe9"
 
 # ✅ Hugging Face Model URLs
