@@ -60,8 +60,12 @@ cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 
+Testing Envitonment:- http://127.0.0.1:8000/docs
+
 cd frontend
 streamlit run app.py
+
+Testing Environment:-http://localhost:8501/
 
 
 smart-city-assistant/
